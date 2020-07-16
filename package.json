@@ -6,13 +6,11 @@
   },
   "scripts": {
     "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
-    "cdk": "cdk",
-    "test": "jest"
+    "cdk": "cdk"
   },
   "devDependencies": {
     "@aws-cdk/assert": "1.51.0",
-    "aws-cdk": "1.51.0",
-    "jest": "^25.5.0"
+    "aws-cdk": "1.51.0"
   },
   "dependencies": {
     "@aws-cdk/aws-lambda-nodejs": "1.51.0",
