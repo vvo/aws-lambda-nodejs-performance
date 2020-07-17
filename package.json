@@ -9,6 +9,7 @@
     "cdk": "cdk"
   },
   "devDependencies": {
+    "@babel/core": "7.10.5",
     "@aws-cdk/assert": "1.51.0",
     "aws-cdk": "1.51.0"
   },
